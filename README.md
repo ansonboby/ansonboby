@@ -23,4 +23,4 @@ dataset with gaps, a device with no internet, a firmware that lies about its own
 
 `TypeScript` · `Python` · `Rust` · `Kotlin` · `Go` · `QML`
 
-[Portfolio](https://ansonboby.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/anson-boby) · [X](https://x.com/AnsonBoby)
+[Portfolio](https://ansonboby.vercel.app) · [LinkedIn](https://www.linkedin.com/in/anson-boby) · [X](https://x.com/AnsonBoby)
